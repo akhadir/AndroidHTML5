@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=nhVViwmc3lg
 Remove Action Bar:
 https://www.youtube.com/watch?v=A9rcKZUm0zM&t=86s
 
-Note: All implement inside app/ directory of this project
+Note: All implemented inside app/ directory of this project
